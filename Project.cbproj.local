@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Alex\Desktop\MyProjects\Белеберда\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\Alex\Desktop\MyProjects\BackUps\BackUp.cbproj=C:\Users\Alex\Desktop\MyProjects\BackUps\Project.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Alex\Desktop\MyProjects\Белеберда\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,C:\Users\Alex\Desktop\MyProjects\BackUps\BackUp.cbproj=C:\Users\Alex\Desktop\MyProjects\BackUps\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Alex\Desktop\MyProjects\Белеберда\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Alex\Desktop\MyProjects\Белеберда\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\Alex\Desktop\MyProjects\BackUps\BackUpPCH1.h=C:\Users\Alex\Desktop\MyProjects\BackUps\ProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,=C:\Users\Alex\Desktop\MyProjects\Белеберда\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,C:\Users\Alex\Desktop\MyProjects\BackUps\BackUpPCH1.h=C:\Users\Alex\Desktop\MyProjects\BackUps\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Alex\Desktop\MyProjects\Белеберда\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.347,=C:\Users\Alex\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
